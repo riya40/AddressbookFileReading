@@ -1,0 +1,8 @@
+.idea/
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+pom.xml
+settings.gradle
+target/
